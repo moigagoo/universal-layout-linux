@@ -1139,6 +1139,7 @@ xkb_symbols "unirus" {
     key <AC11> { [ Cyrillic_e, Cyrillic_E, guillemotright, rightarrow ] };
 
     key <AB02> { [ Cyrillic_che, Cyrillic_CHE, multiply ] };
+    key <AB06> { [ Cyrillic_te, Cyrillic_TE, U2116 ] };
     key <AB07> { [ Cyrillic_softsign, Cyrillic_SOFTSIGN, Cyrillic_hardsign, Cyrillic_HARDSIGN ] };
     key <AB08> { [ comma, semicolon, less, lessthanequal ] };
     key <AB09> { [ period, colon, greater, greaterthanequal ] };
