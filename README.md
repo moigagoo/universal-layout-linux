@@ -157,7 +157,7 @@
 
 ## Credits
 
-Сделано на основе [Версии Никиты Широкова](https://github.com/braindefender/universal-layout).
+Сделано на основе [версии Никиты Широкова](https://github.com/braindefender/universal-layout).
 
 Special thanks to [Tonsky](https://tonsky.me/).
 
