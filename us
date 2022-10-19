@@ -2315,7 +2315,7 @@ xkb_symbols "unieng" {
     include "us(basic)"
     name[Group1]= "English Universal";
 
-    key <TLDE> { [ apostrophe, quotedbl, grave ] };
+    key <TLDE> { [ apostrophe, quotedbl, grave, U0301 ] };
     key <AE01> { [ exclam, 1, onesuperior, exclamdown ] };
     key <AE02> { [ at, 2, twosuperior, onehalf ] };
     key <AE03> { [ numbersign, 3, threesuperior, onethird ] };
@@ -2332,15 +2332,21 @@ xkb_symbols "unieng" {
     key <BKSL> { [ slash, bar, backslash] };
 
     key <AD03> { [ e, E, EuroSign ] };
+    key <AD07> { [ u, U, udiaeresis, Udiaeresis ] };
+    key <AD08> { [ i, I, idotless, Iabovedot ] };
+    key <AD09> { [ o, O, odiaeresis, Odiaeresis ] };
     key <AD11> { [ bracketleft,	braceleft, bracketleft, braceleft ] };
     key <AD12> { [ bracketright, braceright, bracketright, braceright ] };
 
-    key <AC02> { [ s, S, section, U0301 ] };
+    key <AC01> { [ a, A, adiaeresis, Adiaeresis ] };
+    key <AC02> { [ s, S, scedilla, Scedilla ] };
+    key <AC05> { [ g, G, gbreve, Gbreve ] };
     key <AC06> { [ h, H, U20BD ] };
     key <AC10> { [ semicolon, colon, guillemotleft, leftarrow ] };
     key <AC11> { [ asciitilde, asciitilde, guillemotright, rightarrow ] };
 
     key <AB02> { [ x, X, multiply ] };
+    key <AB03> { [ c, C, ccedilla, Ccedilla ] };
     key <AB06> { [ n, N, U2116 ] };
     key <AB08> { [ comma, semicolon, less, lessthanequal ] };
     key <AB09> { [ period, colon, greater, greaterthanequal ] };

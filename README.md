@@ -2,7 +2,7 @@
 
 ## Установка
 
-Замените файлы `/usr/share/X11/symbols/us`, `/usr/share/X11/symbols/ru` и `/usr/share/X11/rules/evdev.xml` файлами из этого репозитория.
+Замените файлы `/usr/share/X11/xkb/symbols/us`, `/usr/share/X11/xkb/symbols/ru` и `/usr/share/X11/xkb/rules/evdev.xml` файлами из этого репозитория.
 
 
 ## Альтернативная установка
