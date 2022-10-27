@@ -1113,7 +1113,7 @@ xkb_symbols "unirus" {
     include "ru(common)"
     name[Group1]= "Russian Universal";
 
-    key <TLDE> { [ apostrophe, quotedbl, grave ] };
+    key <TLDE> { [ apostrophe, quotedbl, grave, U0301 ] };
     key <AE01> { [ exclam, 1, onesuperior, exclamdown ] };
     key <AE02> { [ at, 2, twosuperior, onehalf ] };
     key <AE03> { [ numbersign, 3, threesuperior, onethird ] };
