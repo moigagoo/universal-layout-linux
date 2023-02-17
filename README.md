@@ -12,9 +12,9 @@
 Возможно, потребуется перезайти в систему, чтобы новые раскладки появились в настройках.
 
 Проверено:
-- Manjaro KDE
-- ROSA KDE
-- Zorin Gnome
+- Manjaro Linux KDE
+- ROSA Linux KDE
+- Zorin OS Gnome
 
 
 ## Credits
