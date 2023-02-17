@@ -2,7 +2,19 @@
 
 ## Установка
 
-Замените файлы `/usr/share/X11/xkb/symbols/us`, `/usr/share/X11/xkb/symbols/ru` и `/usr/share/X11/xkb/rules/evdev.xml` файлами из этого репозитория.
+Замените файлы:
+- `/usr/share/X11/xkb/symbols/us`
+- `/usr/share/X11/xkb/symbols/ru`
+- `/usr/share/X11/xkb/rules/evdev.xml`
+
+файлами из этого репозитория.
+
+Возможно, потребуется перезайти в систему, чтобы новые раскладки появились в настройках.
+
+Проверено:
+- Manjaro KDE
+- ROSA KDE
+- Zorin Gnome
 
 
 ## Credits
