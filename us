@@ -2321,7 +2321,7 @@ xkb_symbols "unieng" {
     key <AE03> { [ numbersign, 3, threesuperior, onethird ] };
     key <AE04> { [ dollar, 4 ] };
     key <AE05> { [ percent, 5, permille ] };
-    key <AE06> { [ asciicircum, 6 ] };
+    key <AE06> { [ asciicircum, 6, U0302 ] };
     key <AE07> { [ question, 7, questiondown ] };
     key <AE08> { [ asterisk, 8, infinity, doublelowquotemark ] };
     key <AE09> { [ parenleft, 9, leftdoublequotemark, leftsinglequotemark ] };
