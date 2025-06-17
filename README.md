@@ -15,6 +15,7 @@
 - Manjaro Linux KDE
 - ROSA Linux KDE
 - Zorin OS Gnome
+- Ubuntu (24.04.2 LTS)
 
 
 ## Credits
